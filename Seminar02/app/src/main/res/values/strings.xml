@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IMC App</string>
+    <string name="title">Calculator IMC</string>
+    <string name="hint_name">Nume</string>
+    <string name="hint_weight">Greutate (kg)</string>
+    <string name="hint_height">Inaltime (cm)</string>
+    <string name="cb_details">Afiseaza formula</string>
+    <string name="btn_calc">Calculeaza</string>
+    <string name="btn_reset">Reseteaza</string>
+    <string name="formula">IMC = greutate (kg) / inaltime² (m)</string>
+    <string name="err_empty">Completeaza greutatea si inaltimea!</string>
+    <string name="err_invalid">Valorile trebuie să fie mai mari ca 0!</string>
+    <string name="cat_under">subponderal</string>
+    <string name="cat_normal">greutate normala</string>
+    <string name="cat_over">supraponderal</string>
+    <string name="cat_obese">obezitate</string>
+    <string name="default_name">Utilizator</string>
+    <!-- %1$s = nume, %2$.1f = IMC cu o zecimală, %3$s = categorie -->
+    <string name="result_format">%1$s, IMC-ul tau este %2$.1f (%3$s)</string>
+</resources>

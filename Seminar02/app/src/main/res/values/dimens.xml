@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="field_spacing">12dp</dimen>
+    <dimen name="title_size">24sp</dimen>
+</resources>
