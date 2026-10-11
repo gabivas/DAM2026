@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seminar03</string>
+    <string name="hint_name">Numele tau</string>
+    <string name="btn_send">Trimite</string>
+    <string name="btn_back">Inapoi</string>
+    <string name="greeting">Salut, %1$s!</string>
+</resources>
