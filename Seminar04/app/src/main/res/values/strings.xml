@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Seminar04</string>
+    <string name="nav_about">Despre aplicatie</string>
+    <string name="nav_help">Ajutor</string>
+    <string name="toast_about">Ai ales: Despre aplicatie</string>
+    <string name="toast_help">Ai ales: Ajutor</string>
+    <string name="fab_desc">Adauga student</string>
+
+    <string name="hint_name">Nume</string>
+    <string name="label_faculty">Facultatea</string>
+    <string name="hint_year">An de studiu (1-3)</string>
+    <string name="btn_save">Salveaza</string>
+    <string name="err_empty">Completeaza numele si anul!</string>
+    <string name="err_year">Anul trebuie sa fie intre 1 si 3!</string>
+
+    <string-array name="faculties">
+        <item>CSIE</item>
+        <item>Management</item>
+        <item>Marketing</item>
+        <item>Finante</item>
+        <item>Contabilitate</item>
+    </string-array>
+</resources>
